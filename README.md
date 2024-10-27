@@ -5,6 +5,14 @@ description: Western Europe
 
 > **DISCLAIMER:** This report is intended just for exploring the DataHub platform functionalities, **not** for any commercial use. All the data used in this note is property of Ookla, LLC.
 
+## Fixed broadband Internet speeds in Mbps (Aug 2017 - Aug 2024)
+
+<FlatUiTable
+  data={{
+    url: 'west_eu.csv'
+  }}
+/>
+
 ## Austria
 
 <PlotlyLineChart
